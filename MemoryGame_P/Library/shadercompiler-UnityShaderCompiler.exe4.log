@@ -1,0 +1,67 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=2059 outsize=1517 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1176 outsize=821 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2780 outsize=48145 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=5004 outsize=23589 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2351 outsize=2561 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9166 outsize=8529 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9166 outsize=8765 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1470 outsize=577 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=5435 outsize=25001 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1806 outsize=5153 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 18 at EncodeBC6H.compute(41): 'CubemapTexelToDirection': conversion from larger type to smaller, possible loss of data
+  error: 1 plat 18 at Fibonacci.hlsl(12): conversion from larger type to smaller, possible loss of data
+  error: 1 plat 18 at Fibonacci.hlsl(20): conversion from larger type to smaller, possible loss of data
+  error: 1 plat 18 at Fibonacci.hlsl(263): 'Fibonacci2dSeq': conversion from larger type to smaller, possible loss of data
+  error: 1 plat 18 at Hammersley.hlsl(21): conversion from larger type to smaller, possible loss of data
+  api=18 insize=1478 outsize=89481 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1454 outsize=2333 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=16784 outsize=20605 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=16784 outsize=22073 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=16784 outsize=29309 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=16784 outsize=28205 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=16784 outsize=37393 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=16784 outsize=30173 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=16784 outsize=34909 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=16784 outsize=36489 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=5809 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=6893 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=6501 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=9453 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=6181 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=7573 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=7381 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=8501 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=8805 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=11229 ok=1
